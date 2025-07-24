@@ -1,0 +1,3 @@
+.mypy_cache
+books/
+__pycache__
